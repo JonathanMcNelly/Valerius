@@ -10,6 +10,7 @@ TextureImporter:
     21300010: LivingRoom_5
     21300012: LivingRoom_6
     21300014: LivingRoom_7
+    21300016: LivingRoom_8
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -117,10 +118,10 @@ TextureImporter:
       name: LivingRoom_0
       rect:
         serializedVersion: 2
-        x: 89
-        y: 605
-        width: 103
-        height: 290
+        x: 57
+        y: 384
+        width: 66
+        height: 189
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,7 +129,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbeee380a6f703044af57124ab9ca0e0
+      spriteID: 5b1dfeba9a4323543abc3cf0e018ae43
       vertices: []
       indices: 
       edges: []
@@ -137,10 +138,10 @@ TextureImporter:
       name: LivingRoom_1
       rect:
         serializedVersion: 2
-        x: 417
-        y: 614
-        width: 141
-        height: 281
+        x: 267
+        y: 393
+        width: 90
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,7 +149,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ac55fc4ceea6764b90d310998d032b5
+      spriteID: 476d46c771492bc4696dbd5625035c35
       vertices: []
       indices: 
       edges: []
@@ -157,10 +158,10 @@ TextureImporter:
       name: LivingRoom_2
       rect:
         serializedVersion: 2
-        x: 755
-        y: 605
-        width: 79
-        height: 286
+        x: 483
+        y: 384
+        width: 51
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,7 +169,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f492684a2156e3c40a92b0365fed3bcb
+      spriteID: b5cb19d4ee373804d9007f8efff3ec75
       vertices: []
       indices: 
       edges: []
@@ -177,10 +178,10 @@ TextureImporter:
       name: LivingRoom_3
       rect:
         serializedVersion: 2
-        x: 66
-        y: 333
-        width: 168
-        height: 248
+        x: 42
+        y: 213
+        width: 108
+        height: 159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,7 +189,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9104703ea84ac84788ca94cac8ff6bf
+      spriteID: b794a1330835118469b1cd1dc18c4399
       vertices: []
       indices: 
       edges: []
@@ -197,10 +198,10 @@ TextureImporter:
       name: LivingRoom_4
       rect:
         serializedVersion: 2
-        x: 319
-        y: 361
-        width: 272
-        height: 197
+        x: 204
+        y: 228
+        width: 174
+        height: 129
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,7 +209,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e934402cdc8c7447990ec88200acf27
+      spriteID: ddc381bc838ec294f8643dbda289d94b
       vertices: []
       indices: 
       edges: []
@@ -217,10 +218,10 @@ TextureImporter:
       name: LivingRoom_5
       rect:
         serializedVersion: 2
-        x: 694
-        y: 347
-        width: 197
-        height: 225
+        x: 444
+        y: 222
+        width: 126
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,7 +229,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9908a6af373b8a4d8889a69d2a2f208
+      spriteID: d5570fa8695e09f48a792adfeeb73367
       vertices: []
       indices: 
       edges: []
@@ -237,10 +238,10 @@ TextureImporter:
       name: LivingRoom_6
       rect:
         serializedVersion: 2
-        x: 89
-        y: 14
-        width: 117
-        height: 267
+        x: 57
+        y: 6
+        width: 75
+        height: 174
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,7 +249,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bb18d1da9131d84288f29fb40fb2767
+      spriteID: b16edb940d39b6a45b95e24068981a0d
       vertices: []
       indices: 
       edges: []
@@ -257,10 +258,10 @@ TextureImporter:
       name: LivingRoom_7
       rect:
         serializedVersion: 2
-        x: 328
-        y: 103
-        width: 267
-        height: 122
+        x: 249
+        y: 6
+        width: 75
+        height: 174
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,7 +269,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a60396a1b3afd8498572d7fbe582c66
+      spriteID: 6c427e6ff9b145345b146695fa408f29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LivingRoom_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 171
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c316b936ea4d7e48a61f13131779081
       vertices: []
       indices: 
       edges: []

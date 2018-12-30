@@ -8,6 +8,8 @@ TagManager:
   - Warp
   - UIItem
   - Fader
+  - Bullet
+  - Inventory
   layers:
   - Default
   - TransparentFX
@@ -44,6 +46,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 1708270733
     locked: 0
   - name: Background
     uniqueID: 4166359749
