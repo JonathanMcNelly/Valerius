@@ -1,7 +1,13 @@
 fileFormatVersion: 2
 guid: 664713043ad20ec45b65045b37a5b8f5
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PillarsAndDecorations_0
+    21300002: PillarsAndDecorations_1
+    21300004: PillarsAndDecorations_2
+    21300006: PillarsAndDecorations_3
+    21300008: PillarsAndDecorations_4
+    21300010: PillarsAndDecorations_5
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -104,7 +110,127 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PillarsAndDecorations_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 605
+        width: 84
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4626dbb9297a67f4fab2538733f581c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarsAndDecorations_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 609
+        width: 57
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99ebe3560a6894eb24a13be039eed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarsAndDecorations_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 309
+        width: 57
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb07d64cab547f44b6b44f0706ed891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarsAndDecorations_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 314
+        width: 207
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172b30c3c38e5542ad7ae5035e7e1c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarsAndDecorations_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 121
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d170c6f3a1f38f469356268b23e669b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarsAndDecorations_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 150
+        width: 234
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a295586b0bf4d4da8d245c213f1a9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
