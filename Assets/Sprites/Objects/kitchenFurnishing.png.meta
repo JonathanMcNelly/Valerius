@@ -13,6 +13,8 @@ TextureImporter:
     21300016: kitchenFurnishing_8
     21300018: kitchenFurnishing_9
     21300020: kitchenFurnishing_10
+    21300022: kitchenFurnishing_11
+    21300024: kitchenFurnishing_12
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -131,7 +133,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ef29bde3a0500845bd4208226ccf398
+      spriteID: ea5a081ce516f4446a1dd4be80b1fa34
       vertices: []
       indices: 
       edges: []
@@ -151,7 +153,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4960c50945c4d641a04ae67470ddd01
+      spriteID: 99e5422f7aa6c6f418cd669abd5848ae
       vertices: []
       indices: 
       edges: []
@@ -171,7 +173,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d13ea1a8a839a54a824ef92b15678b7
+      spriteID: d6c4754fc42ea094489fddefe61a2c41
       vertices: []
       indices: 
       edges: []
@@ -180,8 +182,8 @@ TextureImporter:
       name: kitchenFurnishing_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 420
+        x: 616
+        y: 620
         width: 84
         height: 144
       alignment: 0
@@ -191,7 +193,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f3cbcaee11285740b6d957f52776a17
+      spriteID: 9ab0d5fb621835b4c8dac88f77f3db37
       vertices: []
       indices: 
       edges: []
@@ -200,7 +202,7 @@ TextureImporter:
       name: kitchenFurnishing_4
       rect:
         serializedVersion: 2
-        x: 230
+        x: 30
         y: 480
         width: 142
         height: 102
@@ -211,7 +213,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3865a6d86627abb41965237ec9518fcd
+      spriteID: 3c1840f223993bd48b9e31df53141806
       vertices: []
       indices: 
       edges: []
@@ -220,7 +222,7 @@ TextureImporter:
       name: kitchenFurnishing_5
       rect:
         serializedVersion: 2
-        x: 410
+        x: 210
         y: 446
         width: 178
         height: 122
@@ -231,7 +233,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab9068bf28d6fa244aa38f9ed5dbea5f
+      spriteID: f2d6f3473bc863649b4d172ca4a2cb00
       vertices: []
       indices: 
       edges: []
@@ -240,8 +242,8 @@ TextureImporter:
       name: kitchenFurnishing_6
       rect:
         serializedVersion: 2
-        x: 46
-        y: 274
+        x: 446
+        y: 474
         width: 132
         height: 86
       alignment: 0
@@ -251,7 +253,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abc982273e4474146b72db1f0a014682
+      spriteID: 4312e17bea8921b4ab7c669ca75ee084
       vertices: []
       indices: 
       edges: []
@@ -260,8 +262,8 @@ TextureImporter:
       name: kitchenFurnishing_7
       rect:
         serializedVersion: 2
-        x: 222
-        y: 306
+        x: 622
+        y: 506
         width: 160
         height: 72
       alignment: 0
@@ -271,7 +273,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5780f86a81df9f94bbaabafdea87e917
+      spriteID: adb0182e7ff2f7b43a5fb100058e483d
       vertices: []
       indices: 
       edges: []
@@ -280,7 +282,7 @@ TextureImporter:
       name: kitchenFurnishing_8
       rect:
         serializedVersion: 2
-        x: 435
+        x: 34
         y: 228
         width: 132
         height: 134
@@ -291,7 +293,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f190b9d5a71dd5f4a9ec8a4b4234564e
+      spriteID: 548b30b7ce11ace4d906e377e9a1f018
       vertices: []
       indices: 
       edges: []
@@ -300,8 +302,8 @@ TextureImporter:
       name: kitchenFurnishing_9
       rect:
         serializedVersion: 2
-        x: 10
-        y: 46
+        x: 210
+        y: 246
         width: 198
         height: 138
       alignment: 0
@@ -311,7 +313,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 293d19216662ba44db7049bfe1acadb6
+      spriteID: b9c84a921a969de44bc82489e5b1b612
       vertices: []
       indices: 
       edges: []
@@ -320,8 +322,8 @@ TextureImporter:
       name: kitchenFurnishing_10
       rect:
         serializedVersion: 2
-        x: 266
-        y: 70
+        x: 466
+        y: 270
         width: 70
         height: 108
       alignment: 0
@@ -331,7 +333,47 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10a8f47409d7c0a43a40c9c83bafd786
+      spriteID: db4c120b9e8daca48a5e3e6ac7f87668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchenFurnishing_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 242
+        width: 188
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cdeb824af3c0e4d8a1a2eaf590e1d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchenFurnishing_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 42
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800b2b1958544f429bcd1a144868658
       vertices: []
       indices: 
       edges: []
